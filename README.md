@@ -4,6 +4,15 @@ A curated collection of AI agent prompts and skills for tools like Cursor, Claud
 
 Use it as a personal prompt library: copy a prompt that matches your personality type or learning goal, paste it into your agent of choice, and start.
 
+## Just for Fun
+
+- [Caveman](prompts/Fun/caveman.md) or [رجل الكهف](prompts/Fun/caveman_ar.md)
+
+## Linguistic
+
+- [Epistemology](prompts/Linguistic/epistemology.md): لمعرفة أصل أي كلمة.
+
+
 ## Curated Skills
 
 - [Engineering Skills by mattpocock](https://github.com/mattpocock/skills/tree/main/skills/engineering) "Skills I use daily for code work"
