@@ -1,5 +1,10 @@
 # Agent Prompts and Skills
 
+## Curated Skills
+
+- [Engineering Skills by mattpocock](https://github.com/mattpocock/skills/tree/main/skills/engineering) "Skills I use daily for code work"
+- [Official Agent Skills](https://officialskills.sh/) "from the dev teams of software vendors, plus handpicked & community-adopted skills"
+
 ## Alignment with your Jungian Cognitive Functions (and MBTI)
 
 ### Analysts (NT)
