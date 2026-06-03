@@ -1,5 +1,9 @@
 # Agent Prompts and Skills
 
+A curated collection of AI agent prompts and skills for tools like Cursor, Claude, and ChatGPT. The prompts are organized in two ways: **system prompts aligned to your Jungian cognitive functions (MBTI)** so the agent reasons in a style that fits how you think, and **domain-specific learning prompts** (Python, data analysis, software design patterns) for going deep on a topic.
+
+Use it as a personal prompt library: copy a prompt that matches your personality type or learning goal, paste it into your agent of choice, and start.
+
 ## Curated Skills
 
 - [Engineering Skills by mattpocock](https://github.com/mattpocock/skills/tree/main/skills/engineering) "Skills I use daily for code work"
@@ -40,3 +44,7 @@
 - [Python (Programming)](prompts/Learning/Python.md)
 - [Data Analysis (Descriptive & Inferential Statistics)](prompts/Learning/Data_Analysis.md)
 - [Software Design Patterns](prompts/Learning/Design_Patterns.md)
+
+## License
+
+Released under the [MIT License](LICENSE).
